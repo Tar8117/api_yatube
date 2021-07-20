@@ -1,2 +1,2 @@
-# api_yatube
-api_yatube
+# Описание проекта api_yatube
+RESTful API сервис для создания постов и комментариев
